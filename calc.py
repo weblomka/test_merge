@@ -1,6 +1,6 @@
 #чо за говно код
 # НУ СЦУКО ГОВНО МЫ ТЕБЯ СЛОМАЕМ
-def add(x, abc):
+def her(x, abc):
     return x + abc
 
 # This function subtracts two numbers
