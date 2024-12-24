@@ -1,3 +1,4 @@
+#чо за говно код
 def add(x, y):
     return x + y
 
