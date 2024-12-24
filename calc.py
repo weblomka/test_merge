@@ -1,6 +1,6 @@
 #чо за говно код
-def add(x, y):
-    return x + y
+def add(x, abc):
+    return x + abc
 
 # This function subtracts two numbers
 def subtract(x, y):
