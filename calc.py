@@ -1,6 +1,6 @@
 #чо за говно код
 # НУ СЦУКО ГОВНО МЫ ТЕБЯ СЛОМАЕМ
-def add(x, abc):
+def add22222222222(x, abc):
     return x + abc
 
 # This function subtracts two numbers
