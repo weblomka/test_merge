@@ -1,10 +1,10 @@
 #чо за говно код
 # НУ СЦУКО ГОВНО МЫ ТЕБЯ СЛОМАЕМ
-def her2(x, abc):
+def her22(x, abc):
     return x + abc
     
 # This function subtracts two numbers
-def subtract2(x, y):
+def subtract22(x, y):
     return x - y
 
 # This function multiplies two numbers
