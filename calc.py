@@ -1,6 +1,6 @@
 #чо за говно код
 # НУ СЦУКО ГОВНО МЫ ТЕБЯ СЛОМАЕМ
-def her22(x, abc):
+def эту мою сделай(x, abc):
     return x + abc
     
 # This function subtracts two numbers
