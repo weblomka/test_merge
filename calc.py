@@ -1,10 +1,10 @@
 #чо за говно код
 # НУ СЦУКО ГОВНО МЫ ТЕБЯ СЛОМАЕМ
-def эту сделай мой вариант(x, abc):
+def tomatos_for_kirill(x, abc):
     return x + abc
     
 # This function subtracts two numbers
-def эту оставь свой(x, y):
+def change_for_rezor(x, y):
     return x - y
 
 # This function multiplies two numbers
