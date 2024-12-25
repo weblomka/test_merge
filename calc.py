@@ -2,7 +2,7 @@
 # НУ СЦУКО ГОВНО МЫ ТЕБЯ СЛОМАЕМ
 def her2(x, abc):
     return x + abc
-
+    
 # This function subtracts two numbers
 def subtract2(x, y):
     return x - y
